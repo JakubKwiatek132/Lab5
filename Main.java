@@ -25,7 +25,7 @@ class Main {
             } catch(WrongAge e){
                 System.out.println("Błędny wiek studenta");
             } catch (WrongDateOfBirth e){
-                System.out.println("Błędny data urodzenia");
+                System.out.println("Błędna data urodzenia");
             }
         }
     }
